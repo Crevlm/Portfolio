@@ -1,8 +1,8 @@
 # Portfolio
 
 
-### Card Game
-# A card game interface where you can select between three different card games to play. Each game is complete with scoring, rules, and a competitor in Highest Match.
+# Card Game
+## A card game interface where you can select between three different card games to play. Each game is complete with scoring, rules, and a competitor in Highest Match.
 Main Title
 ![Card Game Title](https://github.com/user-attachments/assets/78fe26ec-cf4b-40b7-b0fd-043f1d25185e)
 Same or Different Game
@@ -14,10 +14,10 @@ Highest Match<br>
 
 
 
-### Project 3 Placeholder
+# Project 3 Placeholder
 
-### Creatures - Nemo World
-# A simple creature management game that allows you to visit and see animals depending on location where you can interact with each creature.
+# Creatures - Nemo World
+## A simple creature management game that allows you to visit and see animals depending on location where you can interact with each creature.
 Main Menu<br>
 ![Nemo World Main Menu](https://github.com/user-attachments/assets/4b400ce9-6bda-458e-8002-41b69d5b1162)<br>
 Creature Selection<br>
@@ -25,15 +25,14 @@ Creature Selection<br>
 
 
 
-### Coffee Event Handler
-# A simple event handler for demonstrating hot beverages cooling that will print out temperature changes.
+# Coffee Event Handler
+## A simple event handler for demonstrating hot beverages cooling that will print out temperature changes.
 ![Coffee Hot Beverages Cooling](https://github.com/user-attachments/assets/2bdbe832-2165-4afb-b582-034f9a4f2154)
 
 
-### Programming Quiz
-# A simple terminology quiz on programming fundamentals complete with scoring functionality, multiple choice answers, and a random set of questions from the total pool of terms.
+# Programming Quiz
+## A simple terminology quiz on programming fundamentals complete with scoring functionality, multiple choice answers, and a random set of questions from the total pool of terms.
 Sample Question
 <img width="481" alt="Terminology Sample Question" src="https://github.com/user-attachments/assets/caf32a35-92da-4ea9-bfcb-56ba54f3b086" />
-
 Full List of Terms and Definitions
 <img width="671" alt="Terminology Glossary" src="https://github.com/user-attachments/assets/44083b4e-e77c-4846-830c-3fb8c6981f96" />
