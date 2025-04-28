@@ -1,5 +1,6 @@
 # Portfolio
 
+Welcome to my C# Programming Portfolio for PROG201.
 
 # Card Game
 ## A card game interface where you can select between three different card games to play. Each game is complete with scoring, rules, and a competitor in Highest Match.
@@ -32,7 +33,7 @@ Creature Selection<br>
 
 # Programming Quiz
 ## A simple terminology quiz on programming fundamentals complete with scoring functionality, multiple choice answers, and a random set of questions from the total pool of terms.
-Sample Question
-<img width="481" alt="Terminology Sample Question" src="https://github.com/user-attachments/assets/caf32a35-92da-4ea9-bfcb-56ba54f3b086" />
-Full List of Terms and Definitions
+Sample Question<br>
+<img width="481" alt="Terminology Sample Question" src="https://github.com/user-attachments/assets/caf32a35-92da-4ea9-bfcb-56ba54f3b086" /><br>
+Full List of Terms and Definitions<br>
 <img width="671" alt="Terminology Glossary" src="https://github.com/user-attachments/assets/44083b4e-e77c-4846-830c-3fb8c6981f96" />
