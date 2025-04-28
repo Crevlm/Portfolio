@@ -15,7 +15,14 @@ Highest Match<br>
 
 
 
-# Project 3 Placeholder
+# Project 3 - Book Tracker App
+## A simple and easy to use book tracker application that allows you to load in and save books from text file or interface input. It also includes a rating system and statistics!
+Book App at Launch
+![Book App](https://github.com/user-attachments/assets/91e35d37-68f2-4b44-90ad-8400a0e0e54d)
+Rating System - Once a user selects Mark as read and types in their rating score
+![image](https://github.com/user-attachments/assets/2748c140-b635-4dad-b2ea-e5dbc41bfaac)
+
+
 
 # Creatures - Nemo World
 ## A simple creature management game that allows you to visit and see animals depending on location where you can interact with each creature.
