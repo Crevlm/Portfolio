@@ -18,9 +18,9 @@ Highest Match<br>
 
 ### Creatures - Nemo World
 # A simple creature management game that allows you to visit and see animals depending on location where you can interact with each creature.
-Main Menu
-![Nemo World Main Menu](https://github.com/user-attachments/assets/4b400ce9-6bda-458e-8002-41b69d5b1162)
-Creature Selection
+Main Menu<br>
+![Nemo World Main Menu](https://github.com/user-attachments/assets/4b400ce9-6bda-458e-8002-41b69d5b1162)<br>
+Creature Selection<br>
 ![Nemo World Creature Selection](https://github.com/user-attachments/assets/50870c00-56ba-493a-acba-0d57ec6d5fd9)
 
 
