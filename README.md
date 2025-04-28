@@ -21,10 +21,10 @@ Book App at Launch
 ![Book App](https://github.com/user-attachments/assets/91e35d37-68f2-4b44-90ad-8400a0e0e54d)<br>
 Rating System - Once a user selects Mark as read and types in their rating score<br>
 ![image](https://github.com/user-attachments/assets/2748c140-b635-4dad-b2ea-e5dbc41bfaac)<br>
-Selecting the "Pick a Book for me!" Button
-![image](https://github.com/user-attachments/assets/be54fa8b-6c9b-4db0-adee-ea0a19ecc0e7)
-Selecting "Show Reading Stats" Button
-![image](https://github.com/user-attachments/assets/694cff8f-1abe-4050-8830-79c5ed4e87bf)
+Selecting the "Pick a Book for me!" Button<br>
+![image](https://github.com/user-attachments/assets/be54fa8b-6c9b-4db0-adee-ea0a19ecc0e7)<br>
+Selecting "Show Reading Stats" Button<br>
+![image](https://github.com/user-attachments/assets/694cff8f-1abe-4050-8830-79c5ed4e87bf)<br>
 
 
 
