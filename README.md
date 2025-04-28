@@ -9,7 +9,7 @@ Same or Different Game
 ![Card Game Same or Different](https://github.com/user-attachments/assets/a11777de-55ba-4cd9-87e7-191e24698429)
 Higher or Lower Game
 ![Card Game Higher or Lower](https://github.com/user-attachments/assets/d4e550fc-2549-42a3-9072-61917d7bf184)
-Highest Match
+Highest Match<br>
 ![Card Game Highest Match](https://github.com/user-attachments/assets/413b7780-5d67-45d0-8e3f-a62651ddcfc0)
 
 
